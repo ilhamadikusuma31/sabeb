@@ -4,6 +4,7 @@ import OpenGL.GLU
 
 print("Imports successful!")
 
+print("hai kamu")
 
 from OpenGL.GL import *
 from OpenGL.GLUT import *
